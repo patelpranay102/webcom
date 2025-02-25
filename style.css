@@ -1,0 +1,16 @@
+li.main{
+    display: inline;
+    color: brown;
+}
+body{
+    background: blanchedalmond;
+}
+h1{
+    font-size: xx-large;
+    color: brown;
+}
+a{
+    padding: 6px;
+    background-color: aqua;
+    text-decoration: none;
+}
